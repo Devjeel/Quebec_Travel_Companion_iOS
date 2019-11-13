@@ -10,6 +10,15 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //MARK:- IBOutlets
+    
+    @IBOutlet weak var englishLabel: UILabel!
+    @IBOutlet weak var frenchLabel: UILabel!
+    
+    //MARK:- IBActions
+    @IBAction func buttonTouched(_ sender: UIButton) {
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
