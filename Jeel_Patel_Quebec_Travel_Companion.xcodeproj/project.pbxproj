@@ -13,6 +13,7 @@
 		E536E32E237CA17000A9DED4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E536E32C237CA17000A9DED4 /* Main.storyboard */; };
 		E536E330237CA17100A9DED4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E536E32F237CA17100A9DED4 /* Assets.xcassets */; };
 		E536E333237CA17100A9DED4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E536E331237CA17100A9DED4 /* LaunchScreen.storyboard */; };
+		E536E33B237CA60900A9DED4 /* Jeel_Patel_QTC_Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = E536E33A237CA60900A9DED4 /* Jeel_Patel_QTC_Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E536E32F237CA17100A9DED4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E536E332237CA17100A9DED4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E536E334237CA17100A9DED4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E536E33A237CA60900A9DED4 /* Jeel_Patel_QTC_Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jeel_Patel_QTC_Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E536E32F237CA17100A9DED4 /* Assets.xcassets */,
 				E536E331237CA17100A9DED4 /* LaunchScreen.storyboard */,
 				E536E334237CA17100A9DED4 /* Info.plist */,
+				E536E33A237CA60900A9DED4 /* Jeel_Patel_QTC_Model.swift */,
 			);
 			path = Jeel_Patel_Quebec_Travel_Companion;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E536E32B237CA17000A9DED4 /* ViewController.swift in Sources */,
+				E536E33B237CA60900A9DED4 /* Jeel_Patel_QTC_Model.swift in Sources */,
 				E536E327237CA17000A9DED4 /* AppDelegate.swift in Sources */,
 				E536E329237CA17000A9DED4 /* SceneDelegate.swift in Sources */,
 			);
